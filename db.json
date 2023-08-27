@@ -1,0 +1,166 @@
+{
+  "periods": [
+    {
+      "name": "Primeiro",
+      "disciplines": [
+        {
+          "name": "Fundamentos de Redes de Computadores",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Tendências Tecnológicas para o Mercado de TI",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Introdução a Computação",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Informática Instrumental",
+          "image_id": 2131230880
+        },
+        {
+          "name": "Introdução à Lógica",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Inglês Técnico",
+          "image_id": 2131230880
+        }
+      ]
+    },
+    {
+      "name": "Segundo",
+      "disciplines": [
+        {
+          "name": "Fundamentos e Projeto de Banco de Dados",
+          "image_id": 2131230880
+        },
+        {
+          "name": "Análise de Sistemas",
+          "image_id": 2131230879
+        },
+        {
+          "name": "Introdução à Programação",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Programação Orientada a Objetos",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Programação Básica para Web",
+          "image_id": 2131230880
+        }
+      ]
+    },
+    {
+      "name": "Terceiro",
+      "disciplines": [
+        {
+          "name": "Introdução à Conectividade",
+          "image_id": 2131230880
+        },
+        {
+          "name": "Gerenciamento de Dados para Web",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Programação para Banco de Dados",
+          "image_id": 2131230880
+        },
+        {
+          "name": "Administração de Sistemas Proprietários",
+          "image_id": "2131230881
+        },
+        {
+          "name": "Programação para Web Designers",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Programação para Web I",
+          "image_id": 2131230880
+        }
+      ]
+    },
+    {
+      "name": "Quarto",
+      "disciplines": [
+        {
+          "name": "Sistemas Distribuídos e SOA",
+          "image_id": 2131230880
+        },
+        {
+          "name": "Projeto de Sistemas",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Testes de Software",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Projeto de Interface Web",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Programação para Web II",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Eletiva",
+          "image_id": 2131230881
+        }
+      ]
+    },
+    {
+      "name": "Quinto",
+      "disciplines": [
+        {
+          "name": "Segurança de Sistemas",
+          "image_id": 2131230880
+        },
+        {
+          "name": "Infraestrutura para Sistemas Web",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Administração de Banco de Dados",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Novas Tecnologias em BD",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Programação para Dispositivos Móveis I",
+          "image_id": 2131230880
+        },
+        {
+          "name": "Metodologias de Desenvolvimento",
+          "image_id": 2131230881
+        }
+      ]
+    },
+    {
+      "name": "Sexto",
+      "disciplines": [
+        {
+          "name": "Novas Tecnologias em Desenvolvimento para Web",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Gerência de Configuração",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Padrões de Projeto",
+          "image_id": 2131230881
+        },
+        {
+          "name": "Programação para Dispositivos Móveis II",
+          "image_id": 2131230881
+        }
+      ]
+    }
+  ]
+}
