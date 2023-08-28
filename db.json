@@ -1,8 +1,8 @@
 {
-  "periods": [
+  "periodos": [
     {
       "name": "Primeiro",
-      "disciplines": [
+      "disciplinas": [
         {
           "name": "Fundamentos de Redes de Computadores",
           "image_id": 2131230881
@@ -31,7 +31,7 @@
     },
     {
       "name": "Segundo",
-      "disciplines": [
+      "disciplinas": [
         {
           "name": "Fundamentos e Projeto de Banco de Dados",
           "image_id": 2131230880
@@ -56,7 +56,7 @@
     },
     {
       "name": "Terceiro",
-      "disciplines": [
+      "disciplinas": [
         {
           "name": "Introdução à Conectividade",
           "image_id": 2131230880
@@ -71,7 +71,7 @@
         },
         {
           "name": "Administração de Sistemas Proprietários",
-          "image_id": "2131230881
+          "image_id": 2131230881
         },
         {
           "name": "Programação para Web Designers",
@@ -85,7 +85,7 @@
     },
     {
       "name": "Quarto",
-      "disciplines": [
+      "disciplinas": [
         {
           "name": "Sistemas Distribuídos e SOA",
           "image_id": 2131230880
@@ -114,7 +114,7 @@
     },
     {
       "name": "Quinto",
-      "disciplines": [
+      "disciplinas": [
         {
           "name": "Segurança de Sistemas",
           "image_id": 2131230880
@@ -143,7 +143,7 @@
     },
     {
       "name": "Sexto",
-      "disciplines": [
+      "disciplinas": [
         {
           "name": "Novas Tecnologias em Desenvolvimento para Web",
           "image_id": 2131230881
